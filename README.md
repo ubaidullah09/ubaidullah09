@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ubaidullah09
+- 👀 I’m interested in C and C++ language. 
+- 🌱 I’m currently learning python and html language.
+- 💞️ I’m looking to collaborate on mobile applications specially in games.
+- 📫 you can reach me using my email address 2019cs671@student.uet.edu.pk (i check my email on daily basses.)
